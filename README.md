@@ -394,7 +394,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 ## 📧 Contact
 
 **Serghei Matenko**
-- LinkedIn: [serghei-matenko]
+- LinkedIn: [(https://www.linkedin.com/in/serghei-matenko/)]
 - Email: sergey.revo@outlook.com
 
 ---
