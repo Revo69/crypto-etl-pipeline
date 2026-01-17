@@ -340,7 +340,7 @@ By completing this project, you will gain hands-on experience with:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-etl-pipeline.git
+git clone https://github.com/Revo69/crypto-etl-pipeline.git
 cd crypto-etl-pipeline
 ```
 
