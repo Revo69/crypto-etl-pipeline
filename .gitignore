@@ -1,3 +1,22 @@
+# .gitignore
 .env
 *.env
+.env.local
 .env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Airflow
+logs/
+airflow.db
+airflow.cfg
+
+# IDE
+.vscode/
+.idea/
+*.swp
