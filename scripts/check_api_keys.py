@@ -10,7 +10,7 @@ load_dotenv()
 API_KEY = os.getenv('BINANCE_API_KEY')
 SECRET_KEY = os.getenv('BINANCE_SECRET_KEY')
 
-# Test 1: Public endpoint (без ключа)
+# Test 1: Public endpoint (keyless)
 print("Test 1: Public API")
 response = requests.get(
     "https://api.binance.com/api/v3/ticker/24hr",
