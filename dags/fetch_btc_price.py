@@ -26,7 +26,7 @@ def fetch_and_save_btc():
 with DAG(
     dag_id='fetch_btc_price',
     start_date=datetime(2024, 1, 1),
-    schedule_interval='@hourly',  # Run every hour
+    schedule='@hourly',  # Run every hour
     catchup=False
 ) as dag:
     
